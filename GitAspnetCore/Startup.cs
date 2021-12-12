@@ -16,8 +16,7 @@ namespace GitAspnetCore
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
-            kkala
-            k
+         
 
         }
 
