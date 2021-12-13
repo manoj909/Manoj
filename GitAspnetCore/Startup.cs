@@ -11,7 +11,7 @@ using Microsoft.Extensions.Hosting;
 
 namespace GitAspnetCore
 {
-   LLLLLLLKKKKKKK
+   
     public class Startup
     {
         public Startup(IConfiguration configuration)
