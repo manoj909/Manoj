@@ -11,7 +11,7 @@ using Microsoft.Extensions.Hosting;
 
 namespace GitAspnetCore
 {
-   kala
+   
     public class Startup
     {
         public Startup(IConfiguration configuration)
